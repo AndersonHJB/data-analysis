@@ -4,7 +4,9 @@
 
 公众号视频文稿以及源文件，欢迎点个 star
 
+本资源 gitee 链接：[https://gitee.com/huangjiabaoaiyc/data_analysis](https://gitee.com/huangjiabaoaiyc/data_analysis)
 
+Github 链接：[https://github.com/AndersonHJB/data-analysis](https://github.com/AndersonHJB/data-analysis)
 
 ## 目录
 
