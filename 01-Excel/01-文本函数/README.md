@@ -49,3 +49,4 @@
 
 ## 5. 公众号：AI悦创
 
+![公众号：AI悦创.jpg](README.assets/公众号：AI悦创.jpg)
