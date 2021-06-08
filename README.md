@@ -13,7 +13,8 @@ Github 链接：[https://github.com/AndersonHJB/data-analysis](https://github.co
 | 序号 | 文本                                       | 资料                             | 公众号视频                                                   |
 | ---- | ------------------------------------------ | -------------------------------- | ------------------------------------------------------------ |
 | 01   | [文本函数](01-Excel/01-文本函数/README.md) | [文本函数](01-Excel/01-文本函数) | [https://mp.weixin.qq.com/s/GE0gJkCl_jeU2Ouh6pCdiQ](https://mp.weixin.qq.com/s/GE0gJkCl_jeU2Ouh6pCdiQ) |
-| 02   | [数学函数](01-Excel/02-数学函数/README.md) | [数学函数](01-Excel/02-数学函数) |                                                              |
+| 02   | [数学函数](01-Excel/02-数学函数/README.md) | [数学函数](01-Excel/02-数学函数) | [https://mp.weixin.qq.com/s/yH_K1rDjAwiAvLmjWHZD-g](https://mp.weixin.qq.com/s/yH_K1rDjAwiAvLmjWHZD-g) |
+| 03   |                                            |                                  |                                                              |
 
 
 
