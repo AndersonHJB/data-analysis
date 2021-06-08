@@ -61,3 +61,8 @@
 ## 6. 公众号：AI悦创
 
 ![公众号：AI悦创.jpg](README.assets/公众号：AI悦创.jpg)
+
+<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
+      <source id="mp4" src="02-数学函数.mp4" type="video/mp4">
+      </video>
+
